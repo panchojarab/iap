@@ -1,4 +1,4 @@
-F1 = {
+{
    'Mercedes': ['Lewis Hamilton', 'Valtteri Bottas'],
    'Ferrari': ['Sebastian Vettel', 'Charles Leclerc'],
    'Red Bull Racing': ['Max Verstappen', 'Alexander Albon'],
