@@ -1,0 +1,15 @@
+{
+  "CLIENTE": [
+    {
+      "run": 12345678-9,
+      "nombre": "Francisco",
+      "apellido": "Jara",
+      "direccion": "Inacap",
+      "fono": "123456789",
+      "correo":"correo@correo.cl",
+      "montoCredito": "505050",
+      "deuda":"606060",
+      "tipo": "VIP",      
+    }
+  ]
+}
