@@ -1,7 +1,7 @@
 {
   "cliente": [
     {
-      "run": 14141414-9,
+      "run": "14141414-9",
       "nombre": "Alumno",
       "apellido": "POO",
       "direccion": "Inacap",
